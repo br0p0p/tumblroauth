@@ -1,4 +1,6 @@
+Modifications Copyright (c) 2011 Tim Gavin - http://timgavin.name
 Modifications Copyright (c) 2011 Jacob Budin - http://jbud.in - me@jbud.in
+
 Copyright (c) 2009 Abraham Williams - http://abrah.am - abraham@poseurte.ch
  
 Permission is hereby granted, free of charge, to any person
